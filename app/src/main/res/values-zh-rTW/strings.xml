@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HealthApp</string>
+    <string name="you">你</string>
+    <string name="note">紀錄</string>
+    <string name="start">開始</string>
+    <string name="end">結束</string>
+    <string name="step_count">步數</string>
+</resources>

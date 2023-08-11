@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_you"
+        android:icon="@drawable/ico_walk"
+        android:title="@string/you" />
+
+    <item
+        android:id="@+id/navigation_note"
+        android:icon="@drawable/ico_calendar"
+        android:title="@string/note" />
+
+</menu>
