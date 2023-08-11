@@ -1,4 +1,4 @@
-package com.example.healthapp
+package com.example.MapleHealthWalking
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

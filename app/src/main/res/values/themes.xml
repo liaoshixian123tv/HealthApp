@@ -2,8 +2,23 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.HealthApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--        <item name="android:windowTranslucentStatus">true</item>-->
+        <!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+        <!--        <item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+
     </style>
 
-    <style name="Theme.HealthApp" parent="Base.Theme.HealthApp" />
+    <style name="Theme.HealthApp" parent="Base.Theme.HealthApp">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+    </style>
+
+    <style name="Bottom_Navigator_Theme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+    </style>
+
+
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HealthApp</string>
+    <string name="app_name">MapleHealthWalking</string>
     <string name="you">你</string>
     <string name="note">紀錄</string>
     <string name="start">開始</string>

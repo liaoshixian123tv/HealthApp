@@ -1,20 +1,13 @@
-package com.example.healthapp
+package com.example.MapleHealthWalking
 
-import android.graphics.drawable.AnimatedImageDrawable
-import android.os.Build
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
-import android.widget.ImageView
-import android.widget.TextView
-import androidx.appcompat.content.res.AppCompatResources
-import androidx.appcompat.widget.AppCompatDrawableManager
 import androidx.lifecycle.Observer
 import com.bumptech.glide.Glide
-import com.example.healthapp.databinding.FragmentYouBinding
+import com.example.MapleHealthWalking.databinding.FragmentYouBinding
 
 
 class YouFragment : Fragment() {

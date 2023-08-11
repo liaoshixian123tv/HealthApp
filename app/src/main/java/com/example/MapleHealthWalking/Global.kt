@@ -1,4 +1,4 @@
-package com.example.healthapp
+package com.example.MapleHealthWalking
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

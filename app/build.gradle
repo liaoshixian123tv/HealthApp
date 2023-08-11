@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.healthapp'
+    namespace 'com.example.MapleHealthWalking'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.healthapp"
+        applicationId "com.example.MapleHealthWalking"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.healthapp
+package com.example.MapleHealthWalking
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
