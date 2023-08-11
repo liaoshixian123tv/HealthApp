@@ -29,7 +29,7 @@
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="80dp" />
+            android:layout_height="100dp" />
 
         <androidx.cardview.widget.CardView
             android:id="@+id/central_widget_body_layout"
